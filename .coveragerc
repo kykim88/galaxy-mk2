@@ -1,0 +1,4 @@
+[run]
+omit =
+    galaxy_mk2/config/gunicorn.py
+    galaxy_mk2/__main__.py

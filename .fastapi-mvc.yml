@@ -1,0 +1,21 @@
+# Changes here will be overwritten by Copier
+_commit: 0.1.1
+_src_path: https://github.com/fastapi-mvc/copier-project.git
+aiohttp: true
+author: kykim88
+chart_name: galaxy-mk2
+container_image_name: galaxy-mk2
+copyright_date: '2022'
+email: toru123@hanmail.net
+fastapi_mvc_version: 0.18.2
+github_actions: true
+helm: true
+license: MIT
+nix: true
+package_name: galaxy_mk2
+project_description: This project was generated with fastapi-mvc.
+project_name: galaxy-mk2
+redis: true
+repo_url: https://your.repo.url.here
+script_name: galaxy-mk2
+version: 0.1.0
