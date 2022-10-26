@@ -43,7 +43,7 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 html_theme = "click"
 html_context = {
     "project_links": [
-        ProjectLink("Source Code", "https://your.repo.url.here"),
+        ProjectLink("Source Code", "https://github.com/kykim88/galaxy-mk2"),
     ]
 }
 html_sidebars = {

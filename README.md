@@ -1,6 +1,6 @@
 # galaxy-mk2
-[![CI](https://your.repo.url.here/actions/workflows/main.yml/badge.svg?branch=master)](https://your.repo.url.here/actions/workflows/main.yml)
-[![K8s integration](https://your.repo.url.here/actions/workflows/integration.yml/badge.svg)](https://your.repo.url.here/actions/workflows/integration.yml)
+[![CI](https://github.com/kykim88/galaxy-mk2/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/kykim88/galaxy-mk2/actions/workflows/main.yml)
+[![K8s integration](https://github.com/kykim88/galaxy-mk2/actions/workflows/integration.yml/badge.svg)](https://github.com/kykim88/galaxy-mk2/actions/workflows/integration.yml)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 ![GitHub](https://img.shields.io/badge/fastapi-v.0.85.0-blue)
 ![GitHub](https://img.shields.io/badge/python-3.8%20%7C%203.9%20%7C%203.10-blue)
@@ -13,7 +13,7 @@
 ### Documentation
 
 
-You should have documentation deployed to your project GitHub pages via [Build Docs workflow](https://your.repo.url.here/actions/workflows/docs.yml)
+You should have documentation deployed to your project GitHub pages via [Build Docs workflow](https://github.com/kykim88/galaxy-mk2/actions/workflows/docs.yml)
 
 **NOTE!** You might need to enable GitHub pages for this project first.
 

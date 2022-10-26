@@ -5,7 +5,7 @@ description = "This project was generated with fastapi-mvc."
 authors = ["kykim88 <toru123@hanmail.net>"]
 license = "MIT"
 readme = "README.md"
-repository = "https://your.repo.url.here"
+repository = "https://github.com/kykim88/galaxy-mk2"
 classifiers = [
     "Intended Audience :: Developers",
     "Natural Language :: English",
@@ -43,7 +43,7 @@ myst-parser = "~0.18.1"
 galaxy-mk2 = 'galaxy_mk2.cli:cli'
 
 [tool.poetry.urls]
-"Issues" = "https://your.repo.url.here/issues"
+"Issues" = "https://github.com/kykim88/galaxy-mk2/issues"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

@@ -13,7 +13,7 @@ poetry2nix.mkPoetryApplication {
   pythonImportsCheck = [ "galaxy_mk2" ];
 
   meta = with lib; {
-    homepage = "https://your.repo.url.here";
+    homepage = "https://github.com/kykim88/galaxy-mk2";
     description = "This project was generated with fastapi-mvc.";
   };
 }

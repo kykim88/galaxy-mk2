@@ -16,6 +16,6 @@ package_name: galaxy_mk2
 project_description: This project was generated with fastapi-mvc.
 project_name: galaxy-mk2
 redis: true
-repo_url: https://your.repo.url.here
+repo_url: https://github.com/kykim88/galaxy-mk2
 script_name: galaxy-mk2
 version: 0.1.0
